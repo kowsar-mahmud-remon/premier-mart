@@ -24,7 +24,7 @@ export const productsApi = createApi({
 
     // get single Product 
     getProduct: builder.query({
-      query: (id) => `products/${id}`
+      query: (id) => `/products/${id}`
     }),
 
     // get single categories  Category

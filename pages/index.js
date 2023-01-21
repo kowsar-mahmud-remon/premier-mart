@@ -61,7 +61,6 @@ export default function Home() {
         <title>Premier Mart</title>
         <meta name='keywords' content='web development, programming'></meta>
       </Head>
-      <h1>Welcome to next</h1>
       <Slider></Slider>
       <Products></Products>
     </div>

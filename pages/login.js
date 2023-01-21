@@ -82,7 +82,7 @@ export default class Login extends Component {
             Submit
           </button>
         </div>
-        <p className="forgot-password text-end">
+        <p className="forgot-password mt-5">
           New here, Please
           <Link className="text-success" href="/signup"> Sign Up</Link>
         </p>
